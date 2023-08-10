@@ -1,0 +1,4 @@
+SELECT *
+FROM `mall-data.Mall_Data.ShopperStats`
+WHERE Age
+BETWEEN 20 AND 29

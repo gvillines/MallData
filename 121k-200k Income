@@ -1,0 +1,4 @@
+Select *
+FROM `mall-data.Mall_Data.ShopperStats`
+WHERE _Annual_Income__k___ 
+BETWEEN 121 AND 200
